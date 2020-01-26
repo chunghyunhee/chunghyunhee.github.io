@@ -271,3 +271,12 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+
+**Note** how to go on this site
+1. cd blog_blog
+2. code .
+3. git add . 
+4. git commit -m 'commit posts'
+5. git push origin master
