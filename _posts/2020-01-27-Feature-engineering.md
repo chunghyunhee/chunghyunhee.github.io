@@ -1,8 +1,7 @@
 ---
-category : Data Science
 title : "Feature engineering method"
 toc : True
-category : single_post
+layout : blog
 ---
 
 ## 1. feature selection
