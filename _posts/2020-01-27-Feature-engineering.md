@@ -1,7 +1,6 @@
 ---
 title : "Feature engineering method"
 toc : True
-layout : blog
 ---
 
 ## 1. feature selection
