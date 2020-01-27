@@ -1,5 +1,5 @@
 ---
-layout : Data Science
+category : Data Science
 title : "Feature engineering method"
 toc : True
 category : single_post
