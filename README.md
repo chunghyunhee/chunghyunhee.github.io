@@ -280,3 +280,5 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 3. git add . 
 4. git commit -m 'commit posts'
 5. git push origin master
+
+- post작성하면서 이미지 삽입시에는 issue로 new를 등록하고 이미지를 drag-down하면 더 쉽게 캡쳐본을 주소로 바꿀 수 있고, 이를 markndown으로 code를 붙인다. 
