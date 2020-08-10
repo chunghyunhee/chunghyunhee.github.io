@@ -1,4 +1,4 @@
-# 시큐레이어 7-8월 하계인턴 개인 project 
+# 하계인턴 개인 project 
 - 7개의 kaggle project를 진행함
 - 총 성적은 아래와 같다.
 ![image](https://user-images.githubusercontent.com/49298791/89702304-e89c0d00-d97a-11ea-9153-7b0e6b0e5574.png)
